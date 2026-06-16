@@ -86,7 +86,23 @@ The dataset contains staffing placement records from Cybertec.
 - Recruitment activity remained consistently strong between 2022 and 2024.
 
 
+## Project Screenshots
 
+### Recruiter Performance Analysis
+
+![Recruiter Ranking](Results/07_Recruiter_Ranking.png)
+
+### Revenue and Margin Analysis
+
+![Revenue Margin](Results/02_Revenue_Margin_BDM.png)
+
+### Top Client Analysis
+
+![Top Clients](Results/03_Top_Clients.png)
+
+### State-wise Placement Analysis
+
+![Top States](Results/04_Top_States.png)
 ---
 
 ## Project Structure
