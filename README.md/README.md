@@ -1,8 +1,8 @@
-# Recruitment Analytics SQL Project
+# Sales Analytics SQL Project
 
 ## Project Overview
 
-This project analyzes recruitment and staffing placement data from 2022 to 2025 using SQL Server.
+This project analyzes Sales and staffing placement data from 2022 to 2025 using SQL Server.
 
 The objective was to evaluate recruiter performance, identify hiring trends, analyze client activity, and measure profitability through revenue and margin analysis.
 
@@ -61,14 +61,14 @@ The dataset contains staffing placement records from Cybertec.
 
 ## Business Questions
 
-1. Which recruiters generated the most placements?
-2. Which recruiters generated the highest margin?
+1. Which Sales Manaager generated the most placements?
+2. Which Sales Manaager generated the highest margin?
 3. Which clients received the most placements?
 4. Which states generated the highest placement activity?
 5. Which job roles were most frequently placed?
 6. How did placements trend over time?
 7. Which employment types were most profitable?
-8. Which recruiters ranked highest in performance?
+8. Which Sales Manaager ranked highest in performance?
 9. Which clients generated the highest margins?
 10. How did yearly revenue and profitability change?
 
@@ -118,7 +118,7 @@ Recruitment-Analytics-SQL-Project
 
 ### 03_Exploratory_Analysis.sql
 
-- Recruiter Performance
+- Sales Manaager Performance
 - Client Analysis
 - State Analysis
 - Placement Trends
